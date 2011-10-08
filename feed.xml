@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.diggin.musicrider.com</id>
+    <updated>2011-10-08T19:49:34+09:00</updated>
+    <title>Diggin PEAR channel Latest Releases</title>
+    <link href="http://pear.diggin.musicrider.com/feed.xml" rel="self" />
+    <author>
+        <name>http://pear.diggin.musicrider.com</name>
+    </author>
+
+    <entry>
+        <title>Diggin_Http_Charset 0.1.0 (alpha)</title>
+        <link href="http://pear.diggin.musicrider.com/get/Diggin_Http_Charset-0.1.0.tgz" />
+        <id>http://pear.diggin.musicrider.com/get/Diggin_Http_Charset-0.1.0.tgz</id>
+        <author>
+            <name>sasezaki</name>
+        </author>
+        <updated>2011-08-28T00:45:50+09:00</updated>
+        <content>
+            Diggin_Http_Charset
+        </content>
+    </entry>
+</feed>

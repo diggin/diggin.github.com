@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>pear.diggin.musicrider.com</name>
+    <summary>Diggin PEAR channel</summary>
+    <alias>diggin</alias>
+    <url>http://pear.diggin.musicrider.com</url>
+</server>
