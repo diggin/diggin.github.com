@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.diggin.musicrider.com</id>
-    <updated>2011-10-08T19:49:34+09:00</updated>
+    <updated>2011-10-08T23:54:07+09:00</updated>
     <title>Diggin PEAR channel Latest Releases</title>
     <link href="http://pear.diggin.musicrider.com/feed.xml" rel="self" />
     <author>
@@ -17,7 +17,9 @@
         </author>
         <updated>2011-08-28T00:45:50+09:00</updated>
         <content>
-            Diggin_Http_Charset
+            Package Diggin_Http_Charset release notes for version 0.1.0.
+
+Package Diggin_Http_Charset API release notes for version 0.1.0.
         </content>
     </entry>
 </feed>
